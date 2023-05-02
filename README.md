@@ -1,0 +1,2 @@
+# practice-browsersync
+Browsersyncを使ってのWordpressテーマ開発
