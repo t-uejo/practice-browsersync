@@ -1,5 +1,5 @@
 # practice-browsersync
-Browsersync×Wordpressで独自テーマ開発時のテンプレ。
+Browsersync×Wordpressで独自テーマ開発時のテンプレを作成。
 
 ## 目的
 - 自動リロードで快適にコーディング
